@@ -1,4 +1,4 @@
-# Feels-Trip-Magnet-Case-v1.1
+# Feels-Trip-Magnet-Case-(v1.1)
 
 Intended for use with the Feels Trip PCB¹.
 
@@ -10,7 +10,7 @@ v1.1 - utilizes 20 magnets total; updated interior design.
 
 v1.2 TBA - Updated magnet slots to prevent magnet slippage.
 
-### Magnet Enclosure Preview
+### Magnet Enclosure Preview (v1.1)
 
 https://github.com/user-attachments/assets/327d06a7-1adf-4bc3-83b8-83f318915bca
 
@@ -37,7 +37,7 @@ Start on one case piece at a time.
 6. Continue Steps 2 and 3 for the other case piece. Later, you may add more super glue to the exposed side of the magnet if necessary.
 7. Once finished, leave the super glue to cure. After 10 minutes, test the polarity. If everything is correct, I recommend curing for another 2+ hours.
 
-## Feels Trip Magnet Case Specifications
+## Feels Trip Magnet Case (v1.1) Specifications
 
 ### EKH
 23mm
