@@ -39,6 +39,8 @@ Start on one case piece at a time.
 
 ## Feels Trip Magnet Case (v1.1) Specifications
 
+Design inspired by the Coriander, Wind x98, and Equinox.
+
 ### EKH
 23mm
 
