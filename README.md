@@ -1,5 +1,5 @@
 # Feels-Trip-Magnet-Case
-## Feels Trip Magnet Case for the Feels Trip PCB¹.
+### Feels Trip Magnet Case for the Feels Trip PCB¹.
 
 This case is v2 which utilizes more magnets for the enclosure (12 magnets total -> 20 magnets total).
 
@@ -7,6 +7,7 @@ This case is v2 which utilizes more magnets for the enclosure (12 magnets total 
 
 ## Supplies
 [5x3mm Round Magnets](https://www.amazon.com/dp/B09QHS6VSJ)
+
 [5x1mm Self-Adhesive Foam](https://www.amazon.com/dp/B07L6M4PN1)
 
 ## Feels Trip Magnet Case Specifications
