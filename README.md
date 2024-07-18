@@ -1,6 +1,6 @@
 # Feels-Trip-Magnet-Case-v1.1
 
-### Intended for use with the Feels Trip PCB¹.
+Intended for use with the Feels Trip PCB¹.
 
 ### Updates (as of July 18, 2024)
 
