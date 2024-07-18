@@ -17,17 +17,23 @@ This case is v2 which utilizes more magnets for the enclosure (12 magnets total 
 
 ### Top Enclosure
 L: 313.375mm
+
 W: 118.588mm
+
 H: 16mm
 
 ### Bottom Enclosure
 L: 309.213mm
+
 W: 114.705mm
+
 H: 20.324mm
 
 ### Plate
 L: 303.213mm
+
 W: 110.425mm
+
 H: 1.5mm - 1.6mm
 
 ![screenshot](https://github.com/vroyasumi/Feels-Trip-Magnet-Case/blob/main/Renders/Feels_Trip_EXPORT_FIXEDADDED_MAGNETS_2024-Jul-18_05-22-22PM-000_CustomizedView1469937096.png)
