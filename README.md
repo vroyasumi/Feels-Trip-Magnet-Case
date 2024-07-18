@@ -1,4 +1,4 @@
-# Feels-Trip-Magnet-Case-(v1.1)
+# Feels Trip Magnet Case (v1.1)
 
 Intended for use with the Feels Trip PCB¹.
 
