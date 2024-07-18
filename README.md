@@ -5,7 +5,7 @@ This case is v2 which utilizes more magnets for the enclosure (12 magnets total 
 
 ### Magnet Enclosure Preview
 
-https://github.com/user-attachments/assets/327d06a7-1adf-4bc3-83b8-83f318915bca
+![](https://github.com/user-attachments/assets/327d06a7-1adf-4bc3-83b8-83f318915bca | width=300)
 
 ![screenshot](https://github.com/vroyasumi/Feels-Trip-Magnet-Case/blob/main/Renders/Feels_Trip_EXPORT_FIXEDADDED_MAGNETS_2024-Jul-18_05-22-06PM-000_CustomizedView6462012299.png)
 
