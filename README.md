@@ -1,5 +1,8 @@
-# Feels-Trip-Magnet-Case
+# Feels-Trip-Magnet-Case-v2
+
 ### Intended to be used with the Feels Trip PCB¹.
+
+v2 utilizes more magnets for the enclosure (20 total) as opposed to v1 (12 total).
 
 ### Magnet Enclosure Preview
 
