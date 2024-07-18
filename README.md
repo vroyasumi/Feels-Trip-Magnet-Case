@@ -6,7 +6,7 @@ Intended for use with the Feels Trip PCB¹.
 
 v1 - utilizes 12 magnets total.
 
-v1.1 - utilizes 20 magnets total; updated interior design.
+v1.1 - utilizes 20 magnets total; updated magnet slots.
 
 v1.2 TBA - Updated magnet slots to prevent magnet slippage.
 
