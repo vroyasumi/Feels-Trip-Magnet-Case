@@ -1,8 +1,15 @@
 # Feels-Trip-Magnet-Case
 Feels Trip Magnet Case for the Feels Trip PCB¹.
-This case is v2 which utilizes more magnets for the enclosure (3 top and 3 bottom (Old) -> 5 top and 5 bottom (New)).
+
+This case is v2 which utilizes more magnets for the enclosure (12 magnets total -> 20 magnets total).
 
 ![screenshot](https://github.com/vroyasumi/Feels-Trip-Magnet-Case/blob/main/Renders/Feels_Trip_EXPORT_FIXEDADDED_MAGNETS_2024-Jul-18_05-22-06PM-000_CustomizedView6462012299.png)
+
+Supplies
+[5x3mm Round Magnets](https://www.amazon.com/dp/B09QHS6VSJ)
+[5x1mm Self-Adhesive Foam](https://www.amazon.com/dp/B07L6M4PN1)
+
+Feels Trip Magnet Case Specifications
 
 EKH: 23mm
 
@@ -28,6 +35,6 @@ H: 1.5mm - 1.6mm
 ![screenshot](https://github.com/vroyasumi/Feels-Trip-Magnet-Case/blob/main/Renders/Feels_Trip_EXPORT_FIXEDADDED_MAGNETS_2024-Jul-18_05-23-59PM-000_CustomizedView15493387225.png)
 ![screenshot](https://github.com/vroyasumi/Feels-Trip-Magnet-Case/blob/main/Renders/Feels_Trip_EXPORT_FIXEDADDED_MAGNETS_2024-Jul-18_05-25-41PM-000_CustomizedView51714789489.png)
 
-Special thanks to CyberJedi for helping me fulfill my 40% TKL venture.
+Special thanks to CyberJedi for helping me fulfill my 40% TKL passion.
 
 ¹ Feels Trip PCB designed by CyberJedi.
