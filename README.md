@@ -3,6 +3,7 @@
 ### Intended for use with the Feels Trip PCB¹.
 
 v1.1 utilizes more magnets for the enclosure (20 total) as opposed to v1 (12 total).
+
 v1.2 soon - Updated magnet slots to prevent slippage when gluing the magnets to the case.
 
 ### Magnet Enclosure Preview
@@ -16,15 +17,21 @@ https://github.com/user-attachments/assets/327d06a7-1adf-4bc3-83b8-83f318915bca
 
 Super glue of your choice.
 
-## Building Instructions
+Gloves to prevent sticking.
+
+Paper towel to wipe excess glue.
+
+## Building Instructions (Work In Progress)
 
 Start on one case piece at a time.
 
 1. Dab a drop of super glue on the magnet slot.
-2. Place a magnet and hold the position.
-3. Before placing another magnet, test the polarity. All of the magnets must have the same polarity. If one magnet has the opposite polarity, the enclosure will become very weak regardless of how many magnets there are.
-4. Once all magnets are placed and have been checked for similar polarity, you may add more super glue to the sides if necessary.
-5. Before continuing on the other case piece, study the polarity to make sure you glue it facing the correct way.
+2. Place a magnet and hold the position. Wipe excess glue if needed.
+3. Before placing another magnet, test the polarity. All of the magnets must have the same polarity. If one magnet has the opposite polarity, the enclosure will become very weak regardless of how many magnets there are. Continue testing each magnet before gluing them in place.
+4. Once all magnets are placed and have been checked for similar polarity, you may add more super glue to the exposed side of the magnet if necessary.
+5. Before continuing on the other case piece, study the polarity on the initial case piece to make sure you glue the next set of magnets correctly.
+6. Continue Steps 2 and 3 for the other case piece. Later, you may add more super glue to the exposed side of the magnet if necessary.
+7. Once finished, leave the super glue to cure. After 10 minutes, test the polarity. If everything is correct, I recommend curing for another 2+ hours.
 
 ## Feels Trip Magnet Case Specifications
 
