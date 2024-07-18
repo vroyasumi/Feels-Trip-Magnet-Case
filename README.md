@@ -2,7 +2,7 @@
 
 Intended for use with the Feels Trip PCB¹.
 
-### Updates (as of July 18, 2024)
+## Updates (as of July 18, 2024)
 
 v1 - utilizes 12 magnets total.
 
@@ -10,7 +10,7 @@ v1.1 - utilizes 20 magnets total; updated magnet slots.
 
 v1.2 TBA - Updated magnet slots to prevent magnet slippage.
 
-### Magnet Enclosure Preview (v1.1)
+## Magnet Enclosure Preview (v1.1)
 
 https://github.com/user-attachments/assets/327d06a7-1adf-4bc3-83b8-83f318915bca
 
