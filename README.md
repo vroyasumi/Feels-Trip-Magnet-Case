@@ -1,14 +1,18 @@
 # Feels-Trip-Magnet-Case-v1.1
 
-### Intended for use with the Feels Trip PCB¹.
-
-v1.1 utilizes more magnets for the enclosure (20 total) as opposed to v1 (12 total).
-
-v1.2 soon - Updated magnet slots to prevent slippage when gluing the magnets to the case.
-
 ### Magnet Enclosure Preview
 
 https://github.com/user-attachments/assets/327d06a7-1adf-4bc3-83b8-83f318915bca
+
+### Intended for use with the Feels Trip PCB¹.
+
+### Updates (as of July 18, 2024)
+
+v1 - utilizes 12 magnets total.
+
+v1.1 - utilizes 20 magnets total; updated interior design.
+
+v1.2 TBA - Updated magnet slots to prevent magnet slippage.
 
 ## Supplies
 [5x3mm Round Magnets](https://www.amazon.com/dp/B09QHS6VSJ)
