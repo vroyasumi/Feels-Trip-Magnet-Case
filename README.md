@@ -25,7 +25,7 @@ Gloves to prevent sticking.
 
 Paper towel to wipe excess glue.
 
-## Building Instructions (Work In Progress)
+## Build Instructions (Work In Progress)
 
 Start on one case piece at a time.
 
