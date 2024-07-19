@@ -6,11 +6,11 @@ This case was designed with the intent of being manufactured via 3D Printers. Ma
 
 ## Updates (as of July 18, 2024)
 
-v1 - utilizes 12 magnets total.
+v1 - Utilizes 12 magnets total.
 
-v1.1 - utilizes 20 magnets total; updated magnet slots.
+v1.1 - Utilizes 20 magnets total; Updated magnet slots.
 
-v1.2 TBA - Updated magnet slots to prevent magnet slippage.
+v1.2 TBA - Updated magnet slots to prevent magnet slippage; Added weight design
 
 ## Magnet Enclosure Preview (v1.1)
 
