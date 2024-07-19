@@ -2,6 +2,8 @@
 
 Intended for use with the Feels Trip PCB.¹
 
+This case was designed with the intent of being manufactured via 3D Printers. Manufacturing via Resin and CNC has not been tested.
+
 ## Updates (as of July 18, 2024)
 
 v1 - utilizes 12 magnets total.
@@ -19,6 +21,8 @@ https://github.com/user-attachments/assets/327d06a7-1adf-4bc3-83b8-83f318915bca
 
 [5x1mm Self-Adhesive Foam](https://www.amazon.com/dp/B07L6M4PN1)
 
+Keyboard Feet of your choice.
+
 Super glue of your choice.
 
 Gloves to prevent sticking.
@@ -32,10 +36,10 @@ Start on one case piece at a time.
 1. Dab a drop of super glue on the magnet slot.
 2. Place a magnet and hold the position. Wipe excess glue if needed.
 3. Before placing another magnet, test the polarity. All of the magnets must have the same polarity. If one magnet has the opposite polarity, the enclosure will become very weak regardless of how many magnets there are. Continue testing each magnet before gluing them in place.
-4. Once all magnets are placed and have been checked for similar polarity, you may add more super glue to the exposed side of the magnet if necessary.
-5. Before continuing on the other case piece, study the polarity on the initial case piece to make sure you glue the next set of magnets correctly.
-6. Continue Steps 2 and 3 for the other case piece. Later, you may add more super glue to the exposed side of the magnet if necessary.
-7. Once finished, leave the super glue to cure. After 10 minutes, test the polarity. If everything is correct, I recommend curing for another 2+ hours.
+4. Once all magnets are placed and have been checked for similar polarity, you may add more super glue to the exposed side of the magnets if necessary.
+5. Before continuing on the other case piece, study the polarity on the initial case piece to make sure that you glue the next set of magnets correctly.
+6. Continue Steps 2 and 3 for the other case piece. Later, you may add more super glue to the exposed side of the magnets if necessary.
+7. Once finished, leave the super glue to cure. After 10 minutes of curing, test the polarity. If everything is correct, I recommend curing for another 2+ hours.
 
 ## Feels Trip Magnet Case (v1.1) Specifications
 
