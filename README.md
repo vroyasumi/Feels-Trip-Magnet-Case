@@ -45,6 +45,9 @@ Start on one case piece at a time.
 
 Design inspired by the Coriander, Wind x98, and Equinox.
 
+### Front Height
+20mm
+
 ### EKH
 23mm
 
