@@ -4,6 +4,8 @@ Intended for use with the Feels Trip PCB.¹
 
 This case was designed with the intent of being manufactured via 3D Printers. Manufacturing via Resin and CNC has not been tested.
 
+<sub>¹ Feels Trip PCB designed by CyberJedi.</sub>
+
 ## Updates (as of July 18, 2024)
 
 v1 - Utilizes 12 magnets total.
@@ -81,5 +83,3 @@ H: 1.5mm - 1.6mm
 ![screenshot](https://github.com/vroyasumi/Feels-Trip-Magnet-Case/blob/main/Renders%20%2B%20Video%20Preview/Feels_Trip_EXPORT_FIXEDADDED_MAGNETS_2024-Jul-18_05-25-41PM-000_CustomizedView51714789489.png)
 
 Special thanks to CyberJedi for helping me fulfill my 40% TKL passion.
-
-¹ Feels Trip PCB designed by CyberJedi.
