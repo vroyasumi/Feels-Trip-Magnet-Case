@@ -41,7 +41,7 @@ Start on one case piece at a time.
 4. Once all magnets are placed and have been checked for similar polarity, you may add more super glue to the exposed side of the magnets if necessary.
 6. Before continuing on the other case piece, study the polarity on the initial case piece to make sure that you glue the next set of magnets correctly.
 7. Continue Steps 2 through 4 for the other case piece. Again, you may add more super glue to the exposed side of the magnets if necessary.
-8. Once finished, leave the super glue to cure. After 10 minutes of curing, test the polarity. If everything is correct, I recommend curing for another 2+ hours.
+8. Once finished, leave the super glue to cure. After 10 minutes of curing, test the polarity. Be careful though--the magnets are very strong and may shift or be ripped away from the slot. If this occurs, continue to cure for an hour before testing. After an hour, you may test the polarity of each magnet. If testing is successful, please cure for a minimum of 2 hours, or 24 hours to ensure secureness.
 
 ## Feels Trip Magnet Case (v1.1) Specifications
 
